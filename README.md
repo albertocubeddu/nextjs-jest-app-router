@@ -26,5 +26,5 @@ And if you want to develop and test at the same time without the need of trigger
 npm run test:watch
 ```
 
-## Sponsored by skillsociety.com
+## Sponsored by skillsociety.com.au
 This github repository and the medium guide is sponsored by [Skill Society](https://skillsociety.com.au) a Tech company that empower professional and employer with Expert Career Advices & Recruitment Solutions 
