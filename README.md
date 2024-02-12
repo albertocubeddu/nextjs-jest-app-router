@@ -1,5 +1,8 @@
 This is a [Next.js](https://nextjs.org/) project bootstrapped with [`create-next-app`](https://github.com/vercel/next.js/tree/canary/packages/create-next-app) and the JEST library for the app-router!
 
+## Changelog
+2024-02-13: Example with async page and fetch mock. Thanks Joaquin Lobo
+
 ## NextJS Jest App Router
 
 First, run the installer
